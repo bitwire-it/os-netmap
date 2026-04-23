@@ -5,10 +5,10 @@ Interactive network topology map for [OPNsense](https://opnsense.org). Appears u
 ## Screenshots
 
 ### Tree View
-![Tree View with node details and NetFlow enrichment](docs/tree-view.png)
+![Tree View with node details and NetFlow enrichment](docs/1.png)
 
 ### Force View
-![Force-directed topology map](docs/force-view.png)
+![Force-directed topology map](docs/2.png)
 
 ## Features
 
