@@ -25,7 +25,7 @@ Interactive network topology map for [OPNsense](https://opnsense.org). Appears u
 
 ## Requirements
 
-- OPNsense 24.x or later
+- OPNsense 26.x or later
 - `nmap` package (installed automatically as a dependency)
 - **Reporting → NetFlow → Settings → Capture Local** enabled for traffic enrichment (optional)
 
