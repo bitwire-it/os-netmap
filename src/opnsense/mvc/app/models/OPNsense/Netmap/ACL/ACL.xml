@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<acl>
+    <page-interfaces-diagnostics-netmap>
+        <patterns>
+            <pattern>ui/netmap*</pattern>
+            <pattern>api/netmap/*</pattern>
+        </patterns>
+        <description>Network Map</description>
+    </page-interfaces-diagnostics-netmap>
+</acl>
